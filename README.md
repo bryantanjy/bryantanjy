@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bryan Tan Jun Yu</h1>
+<h1 align="center">Hi 👋, I'm Bryan Tan</h1>
 
 <h3 align="left">Programming Languages</h3>
 
